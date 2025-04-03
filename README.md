@@ -126,8 +126,6 @@ kubectl rollout undo deployment/nginx-kiran
 - **Exposed via Kubernetes Service** for easy access
 - **Minikube support** for local Kubernetes testing
 
-ADME.md        # Documentation
-```
 
 ## Future Enhancements
 - **Ingress Controller** for better routing
